@@ -20,4 +20,11 @@ h1{
 section{
     width: 20em;
     margin: 2em;
+    border: 1px solid darkgrey;
+}
+
+main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
 }
