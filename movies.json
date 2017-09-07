@@ -1,38 +1,30 @@
-[
-    {
-        "name" : "It",
-        "length" : "135 min",
-        "genre" : ["Drama", "Horror"],
-        "director" : "Andy Muschietti",
-        "stars" : [" Bill Skarsgård", "Jaeden Lieberher", "Finn Wolfhard", "Sophia Lillis"],
-        "short description" : "A group of bullied kids band together when a monster, taking the appearance of a clown, begins hunting children."
-    },
-
-    {
-        "name" : "Home Again",
-        "length" : "97 min",
-        "genre" : ["Comedy", "Drama", "Romance"],
-        "director" : "Hallie Meyers-Shyer",
-        "stars" : ["Nat Wolff", "Reese Witherspoon", "Lake Bell", "Michael Sheen"],
-        "short description" : "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her."
-    },
-
-     {
-        "name" : "Rememory",
-        "length" : "111 min",
-        "genre" : ["Mystery", "Drama", "Sci-Fi"],
-        "director" : "Mark Palansky",
-        "stars" : ["Peter Dinklage", "Matt Ellis", "Jordana Largy", "Martin Donovan"],
-        "short description" : "The widow of a wise professor stumbles upon one of his inventions that's able to record and play a person's memory."
-    },
-
-    {
-        "name" : "	The Good Catholic",
-        "length" : "96 min",
-        "genre" : ["Comedy", "Drama"],
-        "director" : "Paul Shoulberg",
-        "stars" : ["Zachary Spicer", "Wrenn Schmidt", "Danny Glover", "John C. McGinley"],
-        "short description" : "Daniel loved his job as a small town priest more than anything. Then he met Jane. God help him."
+[{
+        "name": "It",
+        "length": "135 min",
+        "genre": ["Drama", " Horror"],
+        "director": "Andy Muschietti",
+        "stars": [" Bill Skarsgård", " Jaeden Lieberher", " Finn Wolfhard", " Sophia Lillis"],
+        "description": "A group of bullied kids band together when a monster, taking the appearance of a clown, begins hunting children."
+    },{
+        "name": "Home Again",
+        "length": "97 min",
+        "genre": ["Comedy", " Drama", " Romance"],
+        "director": "Hallie Meyers-Shyer",
+        "stars": ["Nat Wolff", " Reese Witherspoon", " Lake Bell", " Michael Sheen"],
+        "description": "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her."
+    },{
+        "name": "Rememory",
+        "length": "111 min",
+        "genre": ["Mystery", " Drama", " Sci-Fi"],
+        "director": "Mark Palansky",
+        "stars": ["Peter Dinklage", " Matt Ellis", " Jordana Largy", " Martin Donovan"],
+        "description": "The widow of a wise professor stumbles upon one of his inventions that's able to record and play a person's memory."
+    },{
+        "name": "The Good Catholic",
+        "length": "96 min",
+        "genre": ["Comedy", " Drama"],
+        "director": "Paul Shoulberg",
+        "stars": ["Zachary Spicer", " Wrenn Schmidt", " Danny Glover", " John C. McGinley"],
+        "description": "Daniel loved his job as a small town priest more than anything. Then he met Jane. God help him."
     }
-
 ]
